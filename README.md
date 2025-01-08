@@ -20,7 +20,7 @@ Mike Wilonja <br>
 
 ![](ID-01.jpeg)
 ![](ID-02.jpeg)
-![](ID-03.jpeg)
+
 ---
 
 Life in Kawangware: Struggling to Survive
@@ -41,9 +41,10 @@ Support is needed. Immediate action can help provide access to basic necessities
 
 19$ Buys:
 
-![](food-01.jpeg)
-![](food-02.jpeg)
-![](food-02.jpeg)
+![](food-01.jpeg)  <br>
+![](food-02.jpeg)  <br>
+![](food-03.jpeg)  <br>
+
 ---
 
 
