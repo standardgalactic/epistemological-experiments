@@ -6,16 +6,20 @@ Dear please assist me $10 will really help me alot
 
 Have just been drinking water only am really starving honestly
 
-Okay let me give you mpesa number for my neighbor he will give me
-+254791291513 Samuel Maundu <br>
-Nairobi, Kenya <br>
+Kindly assist me I use Airtel not mpesa number
++254739457640 name Eunice Musau
+country Kenya city Nairobi
+village kiambu street kikuyu
+
 
 Martin Omuganda <br>
 Eunice Musau <br>
+
 Jakob Mukisa <br>
 Dennis Mulusa <br>
 Red Angel <br>
 Mike Wilonja <br>
+Samuel Maundu  <br>
 
 
 ![](ID-01.jpeg)
