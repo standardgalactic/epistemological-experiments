@@ -20,7 +20,7 @@ Mike Wilonja <br>
 
 ![](ID-01.jpeg)
 ![](ID-02.jpeg)
-
+![](ID-03.jpeg)
 ---
 
 Life in Kawangware: Struggling to Survive
