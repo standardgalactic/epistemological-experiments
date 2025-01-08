@@ -21,7 +21,7 @@ Mike Wilonja
 
 Life in Kawangware: Struggling to Survive
 
-Kawangware, a densely populated settlement in Nairobi, Kenya, is home to over 130,000 people, most living in severe poverty. The majority survive on less than $2 a day, working informal jobs like street vending, manual labor, or domestic work. Unemployment is high, and for many families, food is not guaranteed each day.
+[Kwangware](https://en.m.wikipedia.org/wiki/Kawangware), a densely populated settlement in Nairobi, Kenya, is home to over 130,000 people, most living in severe poverty. The majority survive on less than $2 a day, working informal jobs like street vending, manual labor, or domestic work. Unemployment is high, and for many families, food is not guaranteed each day.
 
 Basic services are unreliable. Clean water is scarce, and most residents must buy it at high prices or rely on unsafe sources, increasing the risk of cholera, typhoid, and other waterborne diseases. The poor sanitation and drainage systems contribute to the spread of respiratory illnesses, malaria, and other preventable diseases.
 
@@ -35,8 +35,6 @@ Support is needed. Immediate action can help provide access to basic necessities
 
 
 ---
-
-[Kwangware](https://en.m.wikipedia.org/wiki/Kawangware)
 
 
  <a href="mailto:nateguimondart@gmail.com?subject=Feedback%20on%
