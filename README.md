@@ -18,8 +18,8 @@ Red Angel <br>
 Mike Wilonja <br>
 
 
-![](ID-01.png)
-![](ID-02.png)
+![](ID-01.jpeg)
+![](ID-02.jpeg)
 
 ---
 
