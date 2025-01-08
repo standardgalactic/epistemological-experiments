@@ -6,10 +6,10 @@ Dear please assist me $10 will really help me alot
 
 Have just been drinking water only am really starving honestly
 
-Kindly assist me I use Airtel not mpesa number
-+254739457640 name Eunice Musau
-country Kenya city Nairobi
-village kiambu street kikuyu
+Kindly assist me I use Airtel not mpesa number <br>
++254739457640 name Eunice Musau  <br>
+country Kenya city Nairobi  <br>
+village kiambu street kikuyu  <br>
 
 
 Martin Omuganda <br>
