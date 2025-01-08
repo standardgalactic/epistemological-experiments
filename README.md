@@ -37,7 +37,13 @@ For the people of Kawangware, daily life is about survival. The need for clean w
 
 Support is needed. Immediate action can help provide access to basic necessities and create sustainable solutions for those living in extreme poverty.
 
+---
 
+19$ Buys:
+
+![](food-01.jpeg)
+![](food-02.jpeg)
+![](food-02.jpeg)
 ---
 
 
