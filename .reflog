@@ -1,0 +1,26 @@
+af6e7b3 HEAD@{0}: rebase (finish): returning to refs/heads/main
+af6e7b3 HEAD@{1}: rebase (squash): 𝘈𝘳𝘵 𝘍𝘰𝘳 𝘚𝘢𝘭𝘦
+1094f37 HEAD@{2}: rebase (start): checkout HEAD~2
+fb71228 HEAD@{3}: commit: Update
+1094f37 HEAD@{4}: rebase (finish): returning to refs/heads/main
+1094f37 HEAD@{5}: rebase (squash): 𝘈𝘳𝘵 𝘍𝘰𝘳 𝘚𝘢𝘭𝘦
+7faa0bc HEAD@{6}: rebase (start): checkout HEAD~2
+a393d8c HEAD@{7}: rebase (finish): returning to refs/heads/main
+a393d8c HEAD@{8}: rebase (squash): Priced For Quick Sale
+4be3a18 HEAD@{9}: rebase (start): checkout HEAD~2
+3cff144 HEAD@{10}: commit: Priced For Quick Sale
+4be3a18 HEAD@{11}: commit: Priced For Quick Sale
+7faa0bc HEAD@{12}: rebase (finish): returning to refs/heads/main
+7faa0bc HEAD@{13}: rebase (squash): 𝘈𝘳𝘵 𝘍𝘰𝘳 𝘚𝘢𝘭𝘦
+62aab0e HEAD@{14}: rebase (start): checkout HEAD~2
+0981a1d HEAD@{15}: commit: Priced For Quick Sale
+62aab0e HEAD@{16}: rebase (finish): returning to refs/heads/main
+62aab0e HEAD@{17}: rebase (squash): 𝘈𝘳𝘵 𝘍𝘰𝘳 𝘚𝘢𝘭𝘦
+d7c1b57 HEAD@{18}: rebase (start): checkout HEAD~2
+544962f HEAD@{19}: commit: Priced For Quick Sale
+d7c1b57 HEAD@{20}: rebase (finish): returning to refs/heads/main
+d7c1b57 HEAD@{21}: rebase (squash): 𝘈𝘳𝘵 𝘍𝘰𝘳 𝘚𝘢𝘭𝘦
+101c553 HEAD@{22}: rebase (start): checkout HEAD~2
+fcae1fc HEAD@{23}: commit: Priced For Quick Sale
+101c553 HEAD@{24}: commit (amend): 𝘈𝘳𝘵 𝘍𝘰𝘳 𝘚𝘢𝘭𝘦
+8cfd501 HEAD@{25}: clone: from https://github.com/standardgalactic/experiments
